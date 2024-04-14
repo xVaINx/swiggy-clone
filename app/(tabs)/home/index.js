@@ -191,7 +191,7 @@ const Index = () => {
             heading={"GENIE"}
             subHeading={"PICK-UP & DROP"}
             offer={""}
-            imageSrc={require("../../../assets/box.png")}
+            imageSrc={require("../../../assets/manSpecs.png")}
             imgHeight={50}
             imgWidth={50}
             dir={0}
@@ -203,7 +203,7 @@ const Index = () => {
             heading={"MINIS"}
             subHeading={"UNIQUE FINDS"}
             offer={""}
-            imageSrc={require("../../../assets/store.png")}
+            imageSrc={require("../../../assets/offer.png")}
             imgHeight={50}
             imgWidth={50}
             dir={0}

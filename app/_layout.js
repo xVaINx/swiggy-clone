@@ -35,7 +35,6 @@ const Layout = () => {
   return (
     <UserContext.Provider value={{ user, setUserData, clearUserData }}>
       <Stack screenOptions={{ headerShown: false }}>
-  
       </Stack>
     </UserContext.Provider>
   );
