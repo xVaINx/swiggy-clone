@@ -22,7 +22,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/swiggy-logo.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.xvainx.swiggyapp"
     },
     "web": {
       "bundler": "metro",
@@ -34,6 +35,14 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "2bd1aedf-bf9c-4680-b513-ed34dc043448"
+      }
     }
   }
 }
